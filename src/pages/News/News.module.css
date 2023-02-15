@@ -1,0 +1,13 @@
+.item{
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+}
+.item_img{
+    width: 100%;
+    height: 55%;
+}
+.item_title{
+    height: 30px;
+    font-size: 12px;
+}
